@@ -9,7 +9,7 @@ export default function Home() {
           <div className="mb-8 text-center">
             <h1 className="text-4xl font-bold tracking-tight text-white sm:text-5xl">JSON Comparison Tool</h1>
             <p className="mt-4 text-lg text-gray-400">
-              Compare JSON responses from URLs or paste your JSON directly to find differences!
+              Compare JSON responses from URLs or paste your JSON directly to find differences
             </p>
           </div>
 
